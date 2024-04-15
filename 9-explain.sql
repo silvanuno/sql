@@ -1,0 +1,1 @@
+-- the use of indexes previouly defined should improve the performance of the query

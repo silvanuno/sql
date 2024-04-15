@@ -1,0 +1,1 @@
+-- TABLE ACCESS - STORAGE FULL. the creation or rebuild of indexes
